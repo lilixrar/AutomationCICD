@@ -17,6 +17,8 @@ import elissectesting.pageobjects.ProductCatalogue;
 import elissectesting.pageobjects.ThankyouPage;
 
 public class SubmitOrderTest extends BaseTest {
+	
+	// This standalone test is going to have a GitHub update
 
 	String userName = "orangefatcat11@nuggets.com";
 	String password = "Orangef@ttie1";
