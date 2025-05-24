@@ -1,0 +1,8 @@
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/AbstractComponents/AbstractComponent.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/pageobjects/CartPage.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/pageobjects/CheckoutPage.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/pageobjects/LandingPage.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/pageobjects/OrderHist.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/pageobjects/ProductCatalogue.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/pageobjects/ThankyouPage.java
+/Users/elissecampos/eclipse-workspace/Frameworks/SeleniumFrameworkDesign/src/main/java/elissectesting/resources/ExtentReporterNG.java
